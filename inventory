@@ -1,0 +1,4 @@
+# this is worker 1
+db ansible_host=ip-172-31-40-87
+# this is worker 2
+web ansible_host=ip-172-31-50-110
